@@ -1,4 +1,4 @@
-let no = document.getElementById("no");
+let انتا هتصاحبني🤨 = document.getElementById("انتا هتصاحبني🤨");
 let yes = document.getElementById("yes");
 let loveImage = document.getElementById("loveImage");
 let content = document.getElementById("content");
