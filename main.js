@@ -1,5 +1,5 @@
 let انتا هتصاحبني🤨 = document.getElementById("انتا هتصاحبني🤨");
-let yes = document.getElementById("yes");
+let اه طبعا😍 = document.getElementById("اه طبعا😍");
 let loveImage = document.getElementById("loveImage");
 let content = document.getElementById("content");
 
